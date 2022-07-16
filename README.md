@@ -1,11 +1,11 @@
-# Good practices for a new repo
+# Good practices for a new Python based Repo
 
 ## Virtual environment
 
 Note : install pyenv : https://medium.com/geekculture/how-to-install-and-manage-multiple-python-versions-in-wsl2-6d6ce1b6f55b
 
-- `python -m venv venv`
-- `source venv/bin/activate`
+- `python -m venv .venv`
+- `source .venv/bin/activate`
 - `pip install --upgrade pip`
 
 ## Requirements
